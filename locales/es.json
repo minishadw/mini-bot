@@ -1,0 +1,37 @@
+{
+	"utilities": {
+		"errorEmbed": "Error",
+		"noInvitePerms": "Necesito el permiso de `crear invitaciones` para ejecutar este comando.",
+		"unexpectedError": "Ha ocurrido un error inesperado.",
+		"badRequest": "La solicitud no se ejecutó correctamente."
+	},
+	"avatar": {
+		"objective": "El avatar de {username} es:",
+		"self": "Tu avatar es:",
+		"objective {{username}}": "avatar.objective {{username}}"
+	},
+    "lang": {
+        "newLanguage": "Has seleccionado un nuevo lenguaje.",
+        "noAdministrator": "No tienes suficientes permisos para ejecutar este comando."
+    },
+	"youtube": {
+		"noChannel": "Necesitas estar en un canal de voz para ejecutar este comando.",
+		"loading": "Iniciando sesión de Youtube Together...",
+		"inviteMessage": "**[Haz click aquí]({inviteLink} 'Enlace de Youtube')**"
+	},
+	"sessions": {
+		"reply": "Selecciona una aplicación para iniciar la sesión compartida."
+	},
+	"status": {
+		"getting": "Obteniendo estado...",
+		"embedAuthor": "Estado de: {username}",
+		"performance": "Rendimiento",
+		"system": "Sistema",
+		"os": "Sistema Operativo",
+		"users": "Usuarios",
+		"servers": "Servidores",
+		"hostTime": "Tiempo de actividad del host",
+		"botTime": "Tiempo de actividad del bot",
+		"session": "Último Inicio"
+	}
+}
